@@ -1,0 +1,68 @@
+[
+  {
+    "code": "111023C",
+    "name": "Matem\u00e1ticas B\u00e1sicas",
+    "credits": 3,
+    "req": []
+  },
+  {
+    "code": "701001C",
+    "name": "Inserci\u00f3n a la Vida Universitaria",
+    "credits": 2,
+    "req": []
+  },
+  {
+    "code": "750002C",
+    "name": "Inform\u00e1tica I",
+    "credits": 3,
+    "req": []
+  },
+  {
+    "code": "720003C",
+    "name": "Seminario Taller I",
+    "credits": 2,
+    "req": []
+  },
+  {
+    "code": "404002C",
+    "name": "Deporte y Salud",
+    "credits": 2,
+    "req": []
+  },
+  {
+    "code": "106012C",
+    "name": "F\u00edsica I + Laboratorio",
+    "credits": 4,
+    "req": [
+      "111023C"
+    ]
+  },
+  {
+    "code": "720008C",
+    "name": "Seminario Taller II",
+    "credits": 2,
+    "req": [
+      "720003C"
+    ]
+  },
+  {
+    "code": "720013C",
+    "name": "Dibujo Aplicado",
+    "credits": 3,
+    "req": []
+  },
+  {
+    "code": "Algebra-Lineal",
+    "name": "\u00c1lgebra Lineal",
+    "credits": 3,
+    "req": [
+      "111023C"
+    ]
+  },
+  {
+    "code": "Electiva-Compl-1",
+    "name": "Electiva Complementaria",
+    "credits": 3,
+    "req": []
+  }
+]
